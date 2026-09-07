@@ -1,6 +1,6 @@
 # Selection to Dida (选中文字 → 滴答任务)
-
-Obsidian 插件：在编辑视图/阅读视图**选中文字后右键**，即可把选中内容添加为 Dida365 / TickTick 任务。
+- 联动obsidian 笔记 和 滴答清单的任务。
+- Obsidian 插件：在编辑视图/阅读视图**选中文字后右键**，即可把选中内容添加为 Dida365 / TickTick 任务。
 
 ## 功能
 
@@ -18,6 +18,18 @@ Obsidian 插件：在编辑视图/阅读视图**选中文字后右键**，即可
 3. 选择清单 → 填写理由（可留空）→ 回车 / 点「添加任务」；
 4. 到 Dida / TickTick 查看任务。
 
+### 无备注版。
+obsidian笔记中选中文字，直接新建滴答清单任务
+
+![演示](assets/without-note.gif)
+
+### 有备注版。 
+先在剪贴板复制好备注，然后obsidian笔记中选中文字，新建滴答清单任务，在理由输入框粘贴，即在任务描述中看到备注。
+
+![演示](assets/with-note.gif)
+
+
+
 ## 依赖
 
 - [DidaSync](https://github.com/CYZice) 插件需已安装、启用并完成 OAuth 登录（本插件调用其实例方法建任务）。
@@ -34,7 +46,7 @@ Obsidian 插件：在编辑视图/阅读视图**选中文字后右键**，即可
 
 ## 联系我
 
-- 邮箱：`mail:`（待补充）
+- 邮箱：`mail:` divaliu1408@qq.com
 
 ## License
 
