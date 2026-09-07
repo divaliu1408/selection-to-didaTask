@@ -1,0 +1,9 @@
+# Obsidian 插件构建产物/本地文件忽略
+node_modules/
+dist/
+*.log
+.DS_Store
+Thumbs.db
+
+# Obsidian vault 无关内容
+*.obsidian/

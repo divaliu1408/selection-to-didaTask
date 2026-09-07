@@ -1,0 +1,9 @@
+{
+  "id": "selection-to-dida",
+  "name": "Selection to Dida",
+  "version": "0.1.0",
+  "minAppVersion": "1.7.2",
+  "description": "Right-click selected text in an editor to add it as a Dida365/TickTick task, reusing the DidaSync plugin connection.",
+  "author": "DivaLiu",
+  "isDesktopOnly": false
+}
