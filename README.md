@@ -18,6 +18,12 @@ Obsidian 插件：在编辑视图/阅读视图**选中文字后右键**，即可
 3. 选择清单 → 填写理由（可留空）→ 回车 / 点「添加任务」；
 4. 到 Dida / TickTick 查看任务。
 
+## 演示
+
+![演示](assets/without-note.gif)
+![演示](assets/with-note.gif)
+
+
 ## 依赖
 
 - [DidaSync](https://github.com/CYZice) 插件需已安装、启用并完成 OAuth 登录（本插件调用其实例方法建任务）。
@@ -31,6 +37,10 @@ Obsidian 插件：在编辑视图/阅读视图**选中文字后右键**，即可
 
 本插件为无构建依赖的手写 CommonJS，修改 `main.js` 后无需打包，直接生效；
 重新加载插件（设置里关闭再开启）即可。
+
+## 联系我
+
+- 邮箱：`mail:` divaliu1408@qq.com
 
 ## License
 
