@@ -24,7 +24,7 @@ Obsidian 插件：在编辑视图/阅读视图**选中文字后右键**，即可
 
 ## 安装（开发/手动）
 
-把 `main.js`、`manifest.json` 放入 `<vault>/.obsidian/plugins/selection-to-dida/`，
+把 `main.js`、`manifest.json` 放入 `<vault>/.obsidian/plugins/selection-to-didaTask/`，
 在 Obsidian「设置 → 第三方插件」中启用。
 
 ## 从源码构建
